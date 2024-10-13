@@ -1,11 +1,11 @@
 
 # ProyectoGestorEventos
 
-## 📋 Descripción
+## 📋 Descripcion
 
 **Gestor de eventos y Tareas JNR** es una aplicacion web diseñada para facilitar la organización y gestión de eventos y tareas en equipos colaborativos. Desarrollada con tecnologias como **ASP.NET Core**, **Blazor**, **Entity Framework Core**, y **PostgreSQL**, la aplicación ofrece una interfaz intuitiva y funcionalidades robustas para administrar eventos, asignar tareas, enviar notificaciones en tiempo real y más.
 
-## 🚀 Características
+## 🚀 Caracteristicas
 
 - **Gestión de Eventos:** Crear, editar, eliminar y visualizar eventos con detalles completos.
 - **Asignación de Tareas:** Asignar tareas a miembros del equipo y hacer seguimiento de su progreso.
@@ -15,7 +15,7 @@
 - **API Gateway:** Gestión eficiente de solicitudes API mediante Ocelot.
 - **Contenerización:** Despliegue fácil y escalable utilizando Docker y Kubernetes (opcional).
 
-## 🛠 Tecnologías Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 - **Frontend:**
   - Blazor/Razor Pages
@@ -37,9 +37,9 @@
 
 [Mockup de la Pagina](https://www.canva.com/design/DAGTeJmWUmY/0KD9IBVijfIa2oEtp7ONWw/edit?utm_content=DAGTeJmWUmY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## 📅 Gestión de Proyectos
+## 📅 Gestion de Proyectos
 
-La gestión detallada de las actividades y el progreso del proyecto se encuentra en nuestro [Gestor de Proyectos en Notion](https://www.notion.so/Gesti-n-de-Proyectos-11ea0232ff068075a937d49c0b8b11b6?pvs=4).
+La gestion detallada de las actividades y el progreso del proyecto se encuentra en nuestro [Gestor de Proyectos en Notion](https://www.notion.so/Gesti-n-de-Proyectos-11ea0232ff068075a937d49c0b8b11b6?pvs=4).
 
 ## 📜 Licencia
 
