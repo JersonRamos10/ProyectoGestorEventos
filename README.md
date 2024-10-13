@@ -7,7 +7,7 @@
 
 ## 🚀 Caracteristicas
 
-- **Gestión de Eventos:** Crear, editar, eliminar y visualizar eventos con detalles completos.
+- **Gestion de Eventos:** Crear, editar, eliminar y visualizar eventos con detalles completos.
 - **Asignación de Tareas:** Asignar tareas a miembros del equipo y hacer seguimiento de su progreso.
 - **Autenticación y Autorización:** Sistema de inicio de sesión seguro para administradores y usuarios.
 - **Notificaciones en Tiempo Real:** Recibir actualizaciones instantáneas sobre cambios en eventos y tareas.
