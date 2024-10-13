@@ -35,7 +35,7 @@
 
 ## 🎨 Diseños y Mockups
 
-![Mockup de la Página de Inicio](https://www.canva.com/design/DAGTeJmWUmY/0KD9IBVijfIa2oEtp7ONWw/edit?utm_content=DAGTeJmWUmY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Mockup de la Pagina](https://www.canva.com/design/DAGTeJmWUmY/0KD9IBVijfIa2oEtp7ONWw/edit?utm_content=DAGTeJmWUmY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 📅 Gestión de Proyectos
 
