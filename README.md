@@ -45,11 +45,6 @@ La gestion detallada de las actividades y el progreso del proyecto se encuentra 
 
 Gestor de Eventos y Tareas JENR © 2024 by Jerson Enrique Ramos Gomez is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit (https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-**Resumen de la Licencia:**
-- **Reconocimiento (BY):** Debes dar crédito de manera adecuada, proporcionar un enlace a la licencia y indicar si se hicieron cambios.
-- **No Comercial (NC):** No puedes utilizar el material para fines comerciales.
-- **CompartirIgual (SA):** Si remixas, transformas o construyes sobre el material, debes distribuir tus contribuciones bajo la misma licencia que el original.
-
 ## 📫 Contacto
 
 - **Nombre:** Jerson Enrique Ramos
