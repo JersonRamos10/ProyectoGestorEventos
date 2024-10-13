@@ -43,7 +43,7 @@ La gestión detallada de las actividades y el progreso del proyecto se encuentra
 
 ## 📜 Licencia
 
-Este proyecto está licenciado bajo la licencia de **Esta obra está bajo licencia CC BY-NC 4.0. Para ver una copia de esta licencia, visite https://creativecommons.org/licenses/by-nc/4.0/© 2 por J**.
+Gestor de Eventos y Tareas JENR © 2024 by Jerson Enrique Ramos Gomez is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit (https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 **Resumen de la Licencia:**
 - **Reconocimiento (BY):** Debes dar crédito de manera adecuada, proporcionar un enlace a la licencia y indicar si se hicieron cambios.
