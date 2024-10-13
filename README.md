@@ -39,7 +39,7 @@
 
 ## 📅 Gestion de Proyectos
 
-La gestion detallada de las actividades y el progreso del proyecto se encuentra en nuestro [Gestor de Proyectos en Notion](https://www.notion.so/Gesti-n-de-Proyectos-11ea0232ff068075a937d49c0b8b11b6?pvs=4).
+La gestion detallada de las actividades y el progreso del proyecto se encuentra en el [Gestor de Proyectos en Notion](https://www.notion.so/Gesti-n-de-Proyectos-11ea0232ff068075a937d49c0b8b11b6?pvs=4).
 
 ## 📜 Licencia
 
