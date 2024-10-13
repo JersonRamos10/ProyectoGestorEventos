@@ -43,7 +43,7 @@ La gestión detallada de las actividades y el progreso del proyecto se encuentra
 
 ## 📜 Licencia
 
-Este proyecto está licenciado bajo la **[CC BY-NC 4.0.](https://creativecommons.org/licenses/by-nc/4.0/© 2 por J)**.
+Este proyecto está licenciado bajo la licencia de **Gestor de Eventos JENRestá bajo licencia CC BY-NC 4.0© 2 por Jerson Enrique Ramos Gómez **.
 
 **Resumen de la Licencia:**
 - **Reconocimiento (BY):** Debes dar crédito de manera adecuada, proporcionar un enlace a la licencia y indicar si se hicieron cambios.
