@@ -13,7 +13,6 @@
 - **Notificaciones en Tiempo Real:** Recibir actualizaciones instantáneas sobre cambios en eventos y tareas.
 - **Interfaz Responsiva:** Diseño adaptado para dispositivos móviles y de escritorio.
 - **API Gateway:** Gestión eficiente de solicitudes API mediante Ocelot.
-- **Contenerización:** Despliegue fácil y escalable utilizando Docker y Kubernetes (opcional).
 
 ## 🛠 Tecnologias Utilizadas
 
