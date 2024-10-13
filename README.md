@@ -3,7 +3,7 @@
 
 ## 📋 Descripción
 
-**ProyectoGestorEventos** es una aplicación web diseñada para facilitar la organización y gestión de eventos y tareas en equipos colaborativos. Desarrollada con tecnologías modernas como **ASP.NET Core**, **Blazor**, **Entity Framework Core**, y **PostgreSQL**, la aplicación ofrece una interfaz intuitiva y funcionalidades robustas para administrar eventos, asignar tareas, enviar notificaciones en tiempo real y más.
+**Gestor de eventos y Tareas JNR** es una aplicacion web diseñada para facilitar la organización y gestión de eventos y tareas en equipos colaborativos. Desarrollada con tecnologias como **ASP.NET Core**, **Blazor**, **Entity Framework Core**, y **PostgreSQL**, la aplicación ofrece una interfaz intuitiva y funcionalidades robustas para administrar eventos, asignar tareas, enviar notificaciones en tiempo real y más.
 
 ## 🚀 Características
 
@@ -32,37 +32,6 @@
 - **Seguridad:**
   - JWT (JSON Web Tokens)
   - HTTPS/TLS
-
-## 📥 Instalación
-
-Sigue estos pasos para configurar y ejecutar el proyecto localmente:
-
-1. **Clonar el Repositorio:**
-    ```bash
-    git clone https://github.com/tu-usuario/ProyectoGestorEventos.git
-    cd ProyectoGestorEventos
-    ```
-
-2. **Configurar la Base de Datos:**
-    - Asegúrate de tener PostgreSQL instalado.
-    - Crea una base de datos llamada `GestorEventos`.
-    - Ejecuta el script SQL proporcionado en el archivo `database.sql` para crear las tablas.
-
-3. **Configurar Variables de Entorno:**
-    - Crea un archivo `.env` en la raíz del proyecto.
-    - Añade las variables necesarias, como la cadena de conexión a la base de datos.
-    ```env
-    DATABASE_URL=postgres://usuario:contraseña@localhost:5432/GestorEventos
-    JWT_SECRET=tu_secreto_jwt
-    ```
-
-4. **Ejecutar la Aplicación:**
-    ```bash
-    dotnet run --project ProyectoGestorEventos
-    ```
-
-5. **Acceder a la Aplicación:**
-    - Abre tu navegador y ve a `http://localhost:5000`.
 
 ## 🎨 Diseños y Mockups
 
