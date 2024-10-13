@@ -43,7 +43,7 @@ La gestión detallada de las actividades y el progreso del proyecto se encuentra
 
 ## 📜 Licencia
 
-Este proyecto está licenciado bajo la **[Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)**.
+Este proyecto está licenciado bajo la **[CC BY-NC 4.0.](https://creativecommons.org/licenses/by-nc/4.0/© 2 por J)**.
 
 **Resumen de la Licencia:**
 - **Reconocimiento (BY):** Debes dar crédito de manera adecuada, proporcionar un enlace a la licencia y indicar si se hicieron cambios.
